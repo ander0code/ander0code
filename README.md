@@ -35,7 +35,7 @@ Me especializo en el desarrollo wed Back End. Mi experiencia se centra en la cre
 
 # 🌟 Proyectos Destacados
 
-## ✨ Backend FastAPI
+## ✨ Backend Forua
 
 
 **Descripción:**  
