@@ -1,26 +1,20 @@
-## ¡Hola! Soy Max Ttito 👋
+# ¡Hola! Soy Max Ttito 👋
 
 Soy un **Desarrollador Back-End** de Lima Metropolitana, Perú 🌍. 
 <p/>
 Me especializo en el desarrollo wed Back End. Mi experiencia se centra en la creación de arquitecturas eficientes, APIs seguras y la optimización de procesos mediante el uso de tecnologías modernas como Django, FastAPI, y bases de datos relacionales como PostgreSQL, MySQL.
 <p/>
 
-**Contacto:**  
-- ![Teléfono](https://img.icons8.com/ios-filled/20/000000/phone.png) **Teléfono:** +51 990903235 
+
+## **Contacto** 📬  
+- ![Teléfono](https://img.icons8.com/ios-filled/20/000000/phone.png) **Teléfono:** +51 990903235  
 - ![Email](https://img.icons8.com/ios-filled/20/000000/email.png) **Email:** [maxttito2005@gmail.com](mailto:maxttito2005@gmail.com)  
-- ![GitHub](https://img.icons8.com/ios-filled/20/000000/github.png) **GitHub:** [github.com/ander0code(https://github.com/ander0code)  
-- ![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png) **LinkedIn:** [linkedin.com/in/maxttito](https://linkedin.com/in/maxttito)  
+- ![GitHub](https://img.icons8.com/ios-filled/20/000000/github.png) **GitHub:** [github.com/ander0code](https://github.com/ander0code)  
+- ![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png) **LinkedIn:** [linkedin.com/in/maxttito](https://linkedin.com/in/maxttito)
 
+---
 
-## 🌟 Proyectos Destacados
-- [**Backend FastAPI**](https://github.com/ander0code/backend_FastApi.git):  
-  Proyecto backend desarrollada con **FastAPI**.
-
-- [**BackEnd Repify**](https://github.com/ander0code/Back_End_Repify.git):  
-  Proyecto backend desarrollado con **Django Rest Framework**.
-
-
-## ![Habilidades](https://img.icons8.com/?size=20&id=100034&format=png&color=000000) HABILIDADES
+## ![Tecnologias](https://img.icons8.com/?size=20&id=100034&format=png&color=000000) Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -35,4 +29,39 @@ Me especializo en el desarrollo wed Back End. Mi experiencia se centra en la cre
   <img src="https://img.shields.io/badge/AWS_RDS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS RDS" />
   <img src="https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Run" />
 </div>
+
+---
+
+
+# 🌟 Proyectos Destacados
+
+## ✨ Backend FastAPI
+
+
+**Descripción:**  
+API backend desarrollada con **FastAPI**. Este proyecto incluye:
+
+- Gestión de autenticación y autorización con JWT.
+- Gestion de perfiles y control de usuarios.
+- Gestion de comentarios y respuestas.
+- Integración con bases de datos relacionales (MySQL).
+- Despliegue en la nube usando **Docker** y **Google Cloud Run***.
+
+📄 **Documentación del API**:  
+🔗 [Explorar la documentación aquí](https://fastapi-340032812084.us-central1.run.app/docs)
+
+---
+  
+## ✨ BackEnd Repify
+**Descripción:**  
+Proyecto backend desarrollado con **Django Rest Framework**. Este proyecto incluye:
+
+- Gestión de usuarios con autenticación y permisos.
+- Gestion de proyectos, solicitudes , colaboradores y 
+- Integración con bases de datos relacionales (PostgreSQL).
+- Despliegue optimizado mediante **Docker** y **Google Cloud Run**.
+  
+📄 **Documentación del API**:  
+🔗 [Explorar la documentación aquí](https://back-end-repify-340032812084.us-central1.run.app/docs/)
+
 
