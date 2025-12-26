@@ -47,8 +47,6 @@ API backend desarrollada con **FastAPI**. Este proyecto incluye:
 - Integración con bases de datos relacionales (MySQL).
 - Despliegue en la nube usando **Docker** y **Google Cloud Run***.
 
-📄 **Documentación del API**:  
-🔗 [Explorar la documentación aquí](https://fastapi-340032812084.us-central1.run.app/docs)
 
 
 ---
@@ -61,6 +59,4 @@ Proyecto backend desarrollado con **Django Rest Framework**. Este proyecto inclu
 - Gestion de proyectos, solicitudes , colaboradores y 
 - Integración con bases de datos relacionales (PostgreSQL).
 - Despliegue optimizado mediante **Docker** y **Google Cloud Run**.
-  
-📄 **Documentación del API**:  
-🔗 [Explorar la documentación aquí](https://back-end-repify-340032812084.us-central1.run.app/docs/)
+
