@@ -9,7 +9,6 @@ Me especializo en el desarrollo Backend, creando APIs escalables y sistemas de g
 ## **Contacto** 📬  
 - ![Teléfono](https://img.icons8.com/ios-filled/20/000000/phone.png) **Teléfono:** +51 990903235  
 - ![Email](https://img.icons8.com/ios-filled/20/000000/email.png) **Email:** [maxttito2005@gmail.com](mailto:maxttito2005@gmail.com)  
-- ![GitHub](https://img.icons8.com/ios-filled/20/000000/github.png) **GitHub:** [github.com/ander0code](https://github.com/ander0code)  
 - ![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png) **LinkedIn:** [linkedin.com/in/maxttito](https://linkedin.com/in/maxttito)
 
 ---
