@@ -60,6 +60,20 @@ Me especializo en el desarrollo Backend, creando APIs escalables y sistemas de g
 ---
 
 #  Proyectos Destacados
+
+## RAG-SQL
+**Descripción:**  
+Sistema RAG que permite consultar bases de datos usando **lenguaje natural**. Desarrollado con **Python + FastAPI + LangChain**. Este proyecto incluye:
+
+- Conversión de preguntas en español a SQL usando LLMs (OpenAI, Claude, Deepseek, Groq, Ollama).
+- Soporte multi-base de datos: PostgreSQL, MySQL, SQLite, SQL Server.
+- Cache semántico con Redis y Qdrant para respuestas rápidas.
+- Sistema de seguridad: SQL injection protection, prompt guard, rate limiting.
+- Arquitectura hexagonal con tests robustos (56 tests).
+- API REST documentada con Swagger/OpenAPI.
+- Despliegue con **Docker** y **Docker Compose**.
+
+
 ##  Backend Codi
 **Descripción:**  
 API backend desarrollada con **Node.js + TypeScript + Express**. Este proyecto incluye:
