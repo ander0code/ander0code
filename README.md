@@ -72,6 +72,7 @@ Sistema RAG que permite consultar bases de datos usando **lenguaje natural**. De
 - API REST documentada con Swagger/OpenAPI.
 - Despliegue con **Docker** y **Docker Compose**.
 
+---
 
 ##  Backend Codi
 **Descripción:**  
